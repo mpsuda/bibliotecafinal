@@ -76,8 +76,6 @@ public class Biblioteca {
         } else {
             System.out.println("Apenas bibliotecarios podem cadastrar itens.");
         }
-
-
     }
 
     public void EmprestarLivro (Usuario usuario){
