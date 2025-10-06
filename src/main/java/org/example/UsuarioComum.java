@@ -23,10 +23,7 @@ public final class UsuarioComum extends Usuario {
                 builder.append("- %s (%s)\n".formatted(item.getTitulo(), item.getCategoria()));
             }
         }
-
         return builder.toString();
     }
-
-
 }
 

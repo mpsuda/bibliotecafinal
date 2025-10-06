@@ -22,7 +22,6 @@ public class Menu {
         System.out.print("Escolha uma opcao: ");
         Integer escolha = scanner.nextInt();
 
-
         return escolha;
     }
 
@@ -71,9 +70,5 @@ public class Menu {
                 }
             }
         }
-
-
-
     }
-
 }

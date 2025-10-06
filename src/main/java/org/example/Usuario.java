@@ -27,6 +27,4 @@ public sealed abstract class Usuario permits Bibliotecario, UsuarioComum {
     public List<Catalogavel> getItensEmprestados() {
         return itensEmprestados;
     }
-
 }
-

@@ -17,5 +17,3 @@ public class LivroFisico extends Livro {
         return "Fisico";
     }
 }
-
-
